@@ -2,6 +2,7 @@
 A textbook on how differential forms apply to computer graphics.
 
 This book is roughly outlined as follows:
+* review of logic, proofs, relations, and functions
 * review of linear algebra
 * multilinear algebra and tensors
 * review of multivariable calculus

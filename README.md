@@ -1,5 +1,5 @@
 # differential_forms_computer_graphics
-A textbook on how differential forms apply to computer graphics.
+A textbook on the application of differential forms to computer graphics.
 
 This book is roughly outlined as follows:
 * review of logic, proofs, relations, and functions

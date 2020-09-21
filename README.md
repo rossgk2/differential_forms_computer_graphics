@@ -1,4 +1,4 @@
-# differential_forms_computer_graphics
+# Tensors, differential forms, and computer graphics
 A textbook on the application of differential forms to computer graphics.
 
 This book is roughly outlined as follows:

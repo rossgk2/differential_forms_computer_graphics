@@ -10,6 +10,6 @@ This book is roughly outlined as follows:
 * smooth manifolds, differential forms, and Stoke's theorem on smooth manifolds with corners
 * computer graphics
 
-This book is currently about 80% complete, as of 10.30.2020.
+This book is 100% complete as of Nov. 9 2020.
 
 COPYRIGHT: This textbook is intended to be downloaded and read for free. If you would like to repurpose the content of this book, please clearly state that you have done so and credit this textbook as a reference.

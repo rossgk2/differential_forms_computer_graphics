@@ -31,9 +31,9 @@ Part IV: Computational applications of differential forms
 10.2. Smoothing with the Laplacian
 10.3. Surface parameterization
 
-## Review of logic, proofs, and functions
+## Chapter 1: review of logic, proofs, and functions
 
-As of Jan. 25 2021, an in-progress chapter on logic and proofs is now included in the book. Just because this section is incomplete does not mean that no one will find it helpful; there is a potentially very helpful section on the implication operator that might interest proof-writers of any level. The chapter is complete up until the "Set difference and set complement" section. (A historical note: the content of this chapter that is complete was written in 2020, long before Jan. 25 2021; it is on Jan. 25 2021 that I decided to include this material in the compiled PDF). 
+As of Jan. 25 2021, an in-progress chapter on logic and proofs is now included in the book. Though incomplete, this section may still be helpful; a proof-writer of any level might find the section on the implication operator => helpful, as this operator is often only halfway understood. The chapter is complete up until the "Set difference and set complement" section. (A historical note: the content of this chapter that is complete was written in 2020, long before Jan. 25 2021; it is on Jan. 25 2021 that I decided to include this material in the compiled PDF). 
 
 ## Copyright
 

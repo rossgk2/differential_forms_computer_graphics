@@ -1,7 +1,8 @@
 # Tensors, differential forms, and computer graphics
-A textbook on the application of differential forms to computer graphics.
+A textbook on the application of differential forms to computer graphics. This book is 100% complete as of Nov. 9 2020.
 
-This book is outlined as follows:
+## Outline of the textbook
+
 * review of linear algebra
 * multilinear algebra and tensors: tensor product spaces, dual spaces, (p, q) tensors, bilinear forms and metric tensors
 * exterior powers
@@ -9,8 +10,6 @@ This book is outlined as follows:
 * introduction to topology
 * smooth manifolds, differential forms, and Stoke's theorem on smooth manifolds with corners
 * computer graphics
-
-This book is 100% complete as of Nov. 9 2020.
 
 ## Logic and proofs
 

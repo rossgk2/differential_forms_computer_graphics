@@ -7,19 +7,23 @@ A textbook on the application of differential forms to computer graphics. This b
 2. Review of linear algebra
 
 Part I: Multilinear algebra and tensors
+
 3. A motivated introduction to tensors
 4. Bilinear forms, metric tensors, and coordinates of tensors
 5. Exterior powers, the determinant, and orientation
 
 Part II: Calculus and basic topology
+
 6. Review of calculus
 7. Basic topology
 
 Part III: Differential forms
+
 8. Manifolds
 9. Differential forms on manifolds
 
 Part IV: Computational applications of differential forms
+
 10. Discrete differential geometry and computer graphics
 10.1. Discrete differential geometry
 10.2. Smoothing with the Laplacian

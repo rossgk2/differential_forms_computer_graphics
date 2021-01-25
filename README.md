@@ -33,7 +33,7 @@ Part IV: Computational applications of differential forms
 
 ## Chapter 1: review of logic, proofs, and functions
 
-As of Jan. 25 2021, an in-progress chapter on logic and proofs is now included in the book. Though incomplete, this section may still be helpful; a proof-writer of any level might find the section on the implication operator => helpful, as this operator is often only halfway understood. The chapter is complete up until the "Set difference and set complement" section. (A historical note: the content of this chapter that is complete was written in 2020, long before Jan. 25 2021; it is on Jan. 25 2021 that I decided to include this material in the compiled PDF). 
+As of Jan. 25 2021, an in-progress chapter on logic and proofs is now included in the book. Though incomplete, this section may still be helpful. In particular, a proof-writer of any level might appreciate the section on the implication operator =>, as this operator is often only halfway understood and badly explained. The chapter is complete up until the "Set difference and set complement" section. (A historical note: the content of this chapter that is complete was written in 2020, long before Jan. 25 2021; it is on Jan. 25 2021 that I decided to include this material in the compiled PDF). 
 
 ## Copyright
 

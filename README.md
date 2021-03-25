@@ -3,7 +3,7 @@ A textbook on the application of differential forms to computer graphics. This b
 
 ## Abstract
 
-Below is the abstract for my senior thesis talk at Carleton College. I'm including it here because it serves as a good overview of this textbook. (The talk covered themes from the textbook).
+*Below is the abstract for my senior thesis talk at Carleton College. I'm including it here because it serves as a good overview of this textbook. (The talk covered themes from the textbook).*
 
 Let's talk vector calculus. Remember div, grad, and curl? Green’s theorem? The divergence theorem? Maybe Stokes’ theorem? These ideas are beautifully generalized by the notion of differential forms, which are algebraic objects invented to be integrated over “multidimensional surfaces”. We will briefly introduce differential forms and present the generalized Stokes’ theorem, which is a very general version of the fundamental theorem of calculus. The generalized Stokes’ theorem is deceptively simple in appearance; it looks simpler than the theorems it generalizes!
 
